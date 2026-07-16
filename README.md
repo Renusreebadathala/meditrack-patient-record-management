@@ -87,10 +87,12 @@ MediTrack solves these problems by consolidating all major healthcare operations
 | SVG Icons | Lightweight Visual Assets |
 | Google Fonts | Professional Typography |
 
+
 ## 🔑 Demo Credentials
 
 | Field | Value |
 |------|------|
 | Email | `doctor@meditrack.com` |
 | Password | `password123` |
+
 
